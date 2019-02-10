@@ -1,0 +1,1 @@
+[null,{"name":"Join","temp":"user","event-type":"6","actions":[{"channel":"4","varName":"","message":"**${tempVars(\"user\")} Joined!**","storage":"0","varName2":"","name":"Send Message"}]},{"name":"Leave","temp":"user","event-type":"7","actions":[{"channel":"4","varName":"","message":"**${tempVars(\"user\")} Leaved ;c**","storage":"0","varName2":"","name":"Send Message"}]}]
